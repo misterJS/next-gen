@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "thumb": "13.jpg",
+        "thumbFull": "13-full.jpg",
+        "age": 40,
+        "icon1": "fab fa-facebook-f",
+        "icon2": "fab fa-twitter",
+        "icon3": "fas fa-comment-alt-lines",
+        "person": "Aulia Rachmat y",
+        "mail": "aulia@dwipancaekatama.com",
+        "phone": "+62-21-1234-5678",
+        "designation": "Managing Director",
+        "delay": "200ms"
+    },
+    {
+        "id": 2,
+        "thumb": "14.jpg",
+        "thumbFull": "14-full.jpg",
+        "age": 45,
+        "icon1": "fab fa-facebook-f",
+        "icon2": "fab fa-twitter",
+        "icon3": "fas fa-comment-alt-lines",
+        "person": "Chandra Nugraha",
+        "mail": "chandra@dwipancaekatama.com",
+        "phone": "+62-21-1234-5679",
+        "designation": "Commissioner",
+        "delay": "400ms"
+    },
+    {
+        "id": 3,
+        "thumb": "15.jpg",
+        "thumbFull": "15-full.jpg",
+        "age": 34,
+        "icon1": "fab fa-facebook-f",
+        "icon2": "fab fa-twitter",
+        "icon3": "fas fa-comment-alt-lines",
+        "person": "Fajrin Arpiansyah",
+        "mail": "fajrin@dwipancaekatama.com",
+        "phone": "+62-21-1234-5680",
+        "designation": "Project Manager",
+        "delay": "600ms"
+    },
+    {
+        "id": 3,
+        "thumb": "15.jpg",
+        "thumbFull": "15-full.jpg",
+        "age": 34,
+        "icon1": "fab fa-facebook-f",
+        "icon2": "fab fa-twitter",
+        "icon3": "fas fa-comment-alt-lines",
+        "person": "Faiz Azhari RAY",
+        "mail": "fajrin@dwipancaekatama.com",
+        "phone": "+62-21-1234-5680",
+        "designation": "Technician",
+        "delay": "600ms"
+    }
+]

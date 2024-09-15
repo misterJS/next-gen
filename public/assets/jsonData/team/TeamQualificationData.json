@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-data-management",
+        "title": "Database Design"
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-marketing-agent",
+        "title": "Digital marketing"
+    }
+]

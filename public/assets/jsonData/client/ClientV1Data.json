@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "icon": "atlassian.png"
+    },
+    {
+        "id": 2,
+        "icon": "figma.png"
+    },
+    {
+        "id": 3,
+        "icon": "react.png"
+    },
+    {
+        "id": 4,
+        "icon": "wordpress.png"
+    }
+]

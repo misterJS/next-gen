@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "tags": "Brand Creation",
+        "activated": "",
+        "icon": "fas fa-arrow-right"
+    },
+    {
+        "id": 2,
+        "tags": "Web Campaigns",
+        "activated": "current-item",
+        "icon": "fas fa-arrow-right"
+    },
+    {
+        "id": 3,
+        "tags": "Creative Strategy",
+        "activated": "",
+        "icon": "fas fa-arrow-right"
+    },
+    {
+        "id": 4,
+        "tags": "Brand strategy",
+        "activated": "",
+        "icon": "fas fa-arrow-right"
+    },
+    {
+        "id": 5,
+        "tags": "Components developing",
+        "activated": "",
+        "icon": "fas fa-arrow-right"
+    }
+]

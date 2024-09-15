@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "department": "Flange"
+    },
+    {
+        "id": 2,
+        "department": "Bolting"
+    },
+    {
+        "id": 3,
+        "department": "Hydraulics"
+    },
+    {
+        "id": 4,
+        "department": "Web"
+    },
+    {
+        "id": 5,
+        "department": "ERP"
+    },
+    {
+        "id": 6,
+        "department": "Listrik"
+    },
+    {
+        "id": 7,
+        "department": "Pengadaan"
+    },
+    {
+        "id": 8,
+        "department": "Flange"
+    },
+    {
+        "id": 9,
+        "department": "Bolting"
+    },
+    {
+        "id": 10,
+        "department": "Hydraulics"
+    },
+    {
+        "id": 11,
+        "department": "ERP"
+    },
+    {
+        "id": 12,
+        "department": "Pengadaan"
+    }
+]

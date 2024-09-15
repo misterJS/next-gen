@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "service": "Solusi Cepat",
+        "number": "01"
+    },
+    {
+        "id": 2,
+        "service": "Fleksibilitas Penuh",
+        "number": "02"
+    },
+    {
+        "id": 3,
+        "service": "Desain Modern",
+        "number": "03"
+    },
+    {
+        "id": 4,
+        "service": "Pemeliharaan Mudah",
+        "number": "04"
+    }
+]

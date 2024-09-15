@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Programming Language",
+        "end": 79,
+        "operator": "%"
+    },
+    {
+        "id": 2,
+        "title": "Backend Development",
+        "end": 95,
+        "operator": "%"
+    },
+    {
+        "id": 3,
+        "title": "Product Design",
+        "end": 80,
+        "operator": "%"
+    },
+    {
+        "id": 4,
+        "title": "UI/UX",
+        "end": 67,
+        "operator": "%"
+    }
+]

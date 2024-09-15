@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "thumb": "7.jpg",
+        "icon": "fas fa-arrow-right",
+        "tag": "Marketing",
+        "category": "Digital Marketing"
+    },
+    {
+        "id": 2,
+        "thumb": "8.jpg",
+        "icon": "fas fa-arrow-right",
+        "tag": "Promotion",
+        "category": "Data Scientist"
+    },
+    {
+        "id": 3,
+        "thumb": "9.jpg",
+        "icon": "fas fa-arrow-right",
+        "tag": "Development",
+        "category": "Benefits Research"
+    },
+    {
+        "id": 4,
+        "thumb": "11.jpg",
+        "icon": "fas fa-arrow-right",
+        "tag": "Research",
+        "category": "Content Optimization"
+    },
+    {
+        "id": 5,
+        "thumb": "13.jpg",
+        "icon": "fas fa-arrow-right",
+        "tag": "Marketing",
+        "category": "Digital Marketing"
+    },
+    {
+        "id": 6,
+        "thumb": "12.jpg",
+        "icon": "fas fa-arrow-right",
+        "tag": "Digital",
+        "category": "Development Agency"
+    },
+    {
+        "id": 7,
+        "thumb": "11.jpg",
+        "icon": "fas fa-arrow-right",
+        "tag": "Research",
+        "category": "Content Optimization"
+    }
+]

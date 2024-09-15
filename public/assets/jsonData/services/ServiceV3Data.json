@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "icon": "fas fa-vector-square",
+        "title": "User Experience Design",
+        "number": "01",
+        "text": "Continue indulged speaking the was out horrible for domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new.",
+        "list1": "Visual design focuses",
+        "list2": "Interaction design",
+        "icon2": "fas fa-arrow-right",
+        "thumb": "15.jpg"
+    },
+    {
+        "id": 2,
+        "icon": "fas fa-layer-group",
+        "title": "User Interface Design",
+        "number": "02",
+        "text": "Presentation indulged speaking the was out horrible for domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new.",
+        "list1": "Search box startup",
+        "list2": "Great Color scheme",
+        "icon2": "fas fa-arrow-right",
+        "thumb": "16.jpg"
+    },
+    {
+        "id": 3,
+        "icon": "fas fa-bullseye",
+        "title": "Branding & Stationery",
+        "number": "03",
+        "text": "Continue indulged speaking the was out horrible for domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new.",
+        "list1": "Logo sketch design",
+        "list2": "Color palette",
+        "icon2": "fas fa-arrow-right",
+        "thumb": "17.jpg"
+    }
+]

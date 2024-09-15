@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "icon": "1.png",
+        "title": "Flange Management",
+        "title2": "Pengelolaan Flange",
+        "text": "Layanan manajemen flange yang memastikan sambungan pipa dan peralatan tetap aman dan terjaga. Kami menyediakan solusi yang terukur untuk memastikan kinerja optimal.",
+        "number": "01"
+    },
+    {
+        "id": 2,
+        "icon": "2.png",
+        "title": "Bolting Solutions",
+        "title2": "Solusi Pengencangan Baut",
+        "text": "Kami menawarkan solusi bolting yang aman dan efisien, memastikan setiap baut di lingkungan industri terpasang dengan torsi yang tepat untuk mencegah kebocoran.",
+        "number": "02"
+    },
+    {
+        "id": 3,
+        "icon": "3.png",
+        "title": "Hydraulics Torque",
+        "title2": "Torsi Hidrolik",
+        "text": "Penggunaan torsi hidrolik untuk pengencangan yang lebih akurat dan efektif di berbagai aplikasi industri, memastikan standar keamanan yang tinggi.",
+        "number": "03"
+    },
+    {
+        "id": 4,
+        "icon": "4.png",
+        "title": "Mobile dan Web Development",
+        "title2": "Pengembangan Web",
+        "text": "Layanan pengembangan web yang disesuaikan untuk kebutuhan bisnis Anda, mulai dari desain, pengembangan, hingga integrasi dengan sistem manajemen konten.",
+        "number": "04"
+    },
+    {
+        "id": 5,
+        "icon": "1.png",
+        "title": "ERP Solutions",
+        "title2": "Solusi ERP",
+        "text": "Solusi ERP terintegrasi yang membantu bisnis mengelola sumber daya dan operasi dengan lebih efisien, mengotomatisasi proses, dan meningkatkan produktivitas.",
+        "number": "05"
+    },
+    {
+        "id": 6,
+        "icon": "2.png",
+        "title": "Instalasi Listrik",
+        "title2": "Instalasi Listrik",
+        "text": "Layanan instalasi listrik yang aman dan sesuai dengan standar industri untuk berbagai kebutuhan proyek konstruksi dan industri.",
+        "number": "06"
+    },
+    {
+        "id": 7,
+        "icon": "3.png",
+        "title": "Pengadaan",
+        "title2": "Layanan Pengadaan",
+        "text": "Kami menyediakan layanan pengadaan peralatan dan komponen industri, memastikan kebutuhan bisnis Anda terpenuhi dengan tepat waktu dan sesuai spesifikasi.",
+        "number": "07"
+    }
+]

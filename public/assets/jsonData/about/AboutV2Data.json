@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "dataId": "headingOne",
+        "dataTarget": "#collapseOne",
+        "dataControls": "collapseOne",
+        "title": "Business Innovation",
+        "ariaExpanded": "true",
+        "dataClass": "show",
+        "text": "Beginnings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way."
+    },
+    {
+        "id": 2,
+        "dataId": "headingTwo",
+        "dataTarget": "#collapseTwo",
+        "dataControls": "collapseTwo",
+        "title": "Search Engine Optimization",
+        "ariaExpanded": "false",
+        "dataClass": "",
+        "text": "Cannings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way."
+    },
+    {
+        "id": 3,
+        "dataId": "headingThree",
+        "dataTarget": "#collapseThree",
+        "dataControls": "collapseThree",
+        "title": "Thinking Differently",
+        "ariaExpanded": "false",
+        "dataClass": "",
+        "text": "Tannings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way."
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "thumb": "3.jpg",
+        "author": "Admin",
+        "date": "15 September, 2023",
+        "title": "Dwi Panca Ekatama Selesaikan Proyek Perbaikan Alat PT KOIN Kontruksi",
+        "icon": "fas fa-arrow-right"
+    },
+    {
+        "id": 2,
+        "thumb": "2.jpg",
+        "author": "Admin",
+        "date": "10 Agustus, 2023",
+        "title": "Implementasi Solusi ERP di Industri Manufaktur oleh Dwi Panca Ekatama",
+        "icon": "fas fa-arrow-right"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "thumb": "h1.jpg",
+        "thumbFull": "h1-full.jpg",
+        "subTitle": "Vector Art",
+        "number": "01",
+        "category": "Design",
+        "dataTarget": "#projectSingleModal",
+        "title": "Art Vectors & Illustrations",
+        "textFirst": "Seeing rather her you not esteem men settle genius excuse.",
+        "textLast": "Deal say over you age from. Comparison new hormonic melancholy.",
+        "icon": "fas fa-arrow-right"
+    },
+    {
+        "id": 2,
+        "thumb": "h2.jpg",
+        "thumbFull": "h2-full.jpg",
+        "subTitle": "ArtBoard Studio",
+        "number": "02",
+        "category": "Branding",
+        "dataTarget": "#projectSingleModal",
+        "title": "Downtown Austin & Studio",
+        "textFirst": "Seeing rather her you not esteem men settle genius excuse.",
+        "textLast": "Deal say over you age from. Comparison new hormonic melancholy.",
+        "icon": "fas fa-arrow-right"
+    },
+    {
+        "id": 3,
+        "thumb": "h3.jpg",
+        "thumbFull": "h3-full.jpg",
+        "subTitle": "Creative Ideas",
+        "number": "03",
+        "category": "Photo",
+        "dataTarget": "#projectSingleModal",
+        "title": "Creative Project Ideas",
+        "textFirst": "Seeing rather her you not esteem men settle genius excuse.",
+        "textLast": "Deal say over you age from. Comparison new hormonic melancholy.",
+        "icon": "fas fa-arrow-right"
+    },
+    {
+        "id": 4,
+        "thumb": "h4.jpg",
+        "thumbFull": "h4-full.jpg",
+        "subTitle": "Branding",
+        "number": "04",
+        "category": "Creative",
+        "dataTarget": "#projectSingleModal",
+        "title": "Digital Branding & Marketing",
+        "textFirst": "Seeing rather her you not esteem men settle genius excuse.",
+        "textLast": "Deal say over you age from. Comparison new hormonic melancholy.",
+        "icon": "fas fa-arrow-right"
+    }
+]

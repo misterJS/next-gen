@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "thumb": "15.jpg",
+        "icon": "quote-big.png",
+        "name": "Saimin",
+        "ratings": 5,
+        "designation": "PT Koin Konstruksi",
+        "text": "Layanan Dwi Panca Ekatama sangat profesional dan tepat waktu. Kami sangat terbantu dalam proses instalasi dan pemeliharaan sistem kami. Mereka selalu siap memberikan solusi terbaik untuk kebutuhan industri kami."
+    },
+    {
+        "id": 2,
+        "thumb": "14.jpg",
+        "icon": "quote-big.png",
+        "name": "Admin",
+        "ratings": 5,
+        "designation": "PT Muaro Bacho Energi",
+        "text": "Dwi Panca Ekatama telah membantu kami dalam beberapa proyek penting. Keahlian dan perhatian mereka terhadap detail memastikan bahwa setiap proyek selesai dengan hasil yang memuaskan."
+    }
+]

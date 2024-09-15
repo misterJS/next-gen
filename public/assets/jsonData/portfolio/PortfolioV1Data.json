@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "thumb": "1.jpg",
+        "thumbFull": "1-full.jpg",
+        "tag": "Flange Management",
+        "title": "Pengelolaan Flange yang Aman",
+        "icon": "fas fa-arrow-right",
+        "client": "PT Dwi Panca Ekatama",
+        "desciplinesUsed": "Flange Management, Maintenance",
+        "projectDetails": "Proyek ini melibatkan pengelolaan flange untuk memastikan keamanan operasional di sektor industri. Kami berhasil menyelesaikan proyek ini dengan tepat waktu dan sesuai dengan standar keselamatan.",
+        "challenges": "Tantangan utama dalam proyek ini adalah memastikan kesesuaian teknis dan keamanan pada setiap tahap instalasi dan pemeliharaan flange.",
+        "solutions": "Solusi yang kami berikan termasuk penerapan teknologi terbaru dalam pengelolaan flange dan pemeliharaan berkala untuk meminimalisir risiko kerusakan."
+    },
+    {
+        "id": 2,
+        "thumb": "2.jpg",
+        "thumbFull": "2-full.jpg",
+        "tag": "Bolting Solutions",
+        "title": "Solusi Pengencangan Baut Industri",
+        "icon": "fas fa-arrow-right",
+        "client": "PT Dwi Panca Ekatama",
+        "desciplinesUsed": "Bolting Solutions, Teknologi",
+        "projectDetails": "Proyek ini berfokus pada pengencangan baut industri menggunakan metode torsi yang aman dan efisien.",
+        "challenges": "Kami menghadapi berbagai kondisi lingkungan dan material yang memerlukan penyesuaian teknik pengencangan baut agar tetap aman.",
+        "solutions": "Kami menggunakan peralatan torsi hidrolik untuk memastikan pengencangan yang optimal dan mengurangi risiko kegagalan sambungan."
+    },
+    {
+        "id": 3,
+        "thumb": "3.jpg",
+        "thumbFull": "3-full.jpg",
+        "tag": "Hydraulics Torque",
+        "title": "Penggunaan Torsi Hidrolik yang Efektif",
+        "icon": "fas fa-arrow-right",
+        "client": "PT Dwi Panca Ekatama",
+        "desciplinesUsed": "Hydraulics Torque, Teknologi",
+        "projectDetails": "Penggunaan torsi hidrolik untuk meningkatkan efisiensi dan keamanan dalam berbagai aplikasi industri.",
+        "challenges": "Menyesuaikan tekanan hidrolik dengan kebutuhan spesifik tiap proyek untuk memaksimalkan hasil tanpa mengorbankan keamanan.",
+        "solutions": "Implementasi sistem hidrolik canggih yang disesuaikan dengan kebutuhan proyek, memberikan hasil yang aman dan efisien."
+    },
+    {
+        "id": 4,
+        "thumb": "4.jpg",
+        "thumbFull": "4-full.jpg",
+        "tag": "ERP Solutions",
+        "title": "Pengembangan Sistem ERP Terintegrasi",
+        "icon": "fas fa-arrow-right",
+        "client": "PT Dwi Panca Ekatama",
+        "desciplinesUsed": "ERP Solutions, Teknologi",
+        "projectDetails": "Proyek ini melibatkan pengembangan dan implementasi sistem ERP terintegrasi untuk mendukung efisiensi operasional.",
+        "challenges": "Mengintegrasikan berbagai departemen dengan sistem ERP untuk menyinkronkan data secara real-time.",
+        "solutions": "Mengembangkan modul ERP yang dapat disesuaikan dengan kebutuhan bisnis dan memastikan integrasi berjalan mulus."
+    },
+    {
+        "id": 5,
+        "thumb": "5.jpg",
+        "thumbFull": "5-full.jpg",
+        "tag": "Instalasi Listrik",
+        "title": "Layanan Instalasi Listrik Industri",
+        "icon": "fas fa-arrow-right",
+        "client": "PT Dwi Panca Ekatama",
+        "desciplinesUsed": "Instalasi Listrik, Maintenance",
+        "projectDetails": "Proyek instalasi listrik untuk fasilitas industri dengan fokus pada keamanan dan efisiensi energi.",
+        "challenges": "Menghadapi kondisi lingkungan yang bervariasi yang memerlukan penyesuaian pada sistem kelistrikan yang dipasang.",
+        "solutions": "Menggunakan peralatan listrik berkualitas tinggi yang sesuai dengan standar keselamatan internasional."
+    },
+    {
+        "id": 6,
+        "thumb": "6.jpg",
+        "thumbFull": "6-full.jpg",
+        "tag": "Pengadaan",
+        "title": "Pengadaan Peralatan dan Komponen",
+        "icon": "fas fa-arrow-right",
+        "client": "PT Dwi Panca Ekatama",
+        "desciplinesUsed": "Pengadaan, Maintenance",
+        "projectDetails": "Proyek pengadaan peralatan industri untuk mendukung kelancaran operasional di berbagai sektor.",
+        "challenges": "Mencari pemasok yang andal untuk memastikan kualitas peralatan yang sesuai dengan kebutuhan industri.",
+        "solutions": "Kami bekerja sama dengan pemasok tepercaya untuk menyediakan peralatan berkualitas tinggi dengan harga yang kompetitif."
+    },
+    {
+        "id": 7,
+        "thumb": "7.jpg",
+        "thumbFull": "7-full.jpg",
+        "tag": "Maintenance",
+        "title": "Pemeliharaan Peralatan Industri",
+        "icon": "fas fa-arrow-right",
+        "client": "PT Dwi Panca Ekatama",
+        "desciplinesUsed": "Maintenance, Teknologi",
+        "projectDetails": "Pemeliharaan peralatan industri secara rutin untuk memastikan operasional yang efisien dan minim gangguan.",
+        "challenges": "Menyesuaikan jadwal pemeliharaan tanpa mengganggu operasional harian klien.",
+        "solutions": "Melakukan pemeliharaan secara berkala di luar jam kerja utama untuk meminimalkan dampak terhadap produksi."
+    }
+]

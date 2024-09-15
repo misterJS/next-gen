@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "activeClass": "",
+        "title": "Rank High on Google",
+        "subtitle": "15 Days Free Trial",
+        "list1": "Number of inbound linker",
+        "list2": "Site speed",
+        "list3": "Keyword usage",
+        "cost": 48
+    },
+    {
+        "id": 2,
+        "activeClass": "active",
+        "title": "Email-based Advertising",
+        "subtitle": "7 Days Free Trial",
+        "list1": "Email Newsletter",
+        "list2": "Marketing Campaigns",
+        "list3": "Traffic Generation",
+        "cost": 24
+    }
+]

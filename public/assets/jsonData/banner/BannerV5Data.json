@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "thumb": "6.jpg",
+        "strokeTitle": "Creative",
+        "title": "Branding Design",
+        "tag": "Agency",
+        "tag2": "Creative",
+        "icon": "fas fa-arrow-right",
+        "btnText": "Explore Now"
+    },
+    {
+        "id": 2,
+        "thumb": "7.jpg",
+        "strokeTitle": "Inspire",
+        "title": "Simple Design",
+        "tag": "Agency",
+        "tag2": "Creative",
+        "icon": "fas fa-arrow-right",
+        "btnText": "Explore Now"
+    },
+    {
+        "id": 3,
+        "thumb": "8.jpg",
+        "strokeTitle": "Branding",
+        "title": "Architect Canvas",
+        "tag": "Agency",
+        "tag2": "Creative",
+        "icon": "fas fa-arrow-right",
+        "btnText": "Explore Now"
+    }
+]
