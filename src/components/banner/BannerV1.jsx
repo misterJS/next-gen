@@ -18,7 +18,7 @@ const BannerV1 = () => {
                                     <path id="textPath" d="M 0,75 a 75,75 0 1,1 0,1 z"></path>
                                     <text><textPath href="#textPath">Layanan Kami</textPath></text>
                                 </svg>
-                                <PopupVideo videoClass="popup-youtube" videoId="ipUuoMCEbDQ">
+                                <PopupVideo videoClass="popup-youtube" videoId="98x_ohAudR4">
                                     <i className="fas fa-arrow-right"></i>
                                 </PopupVideo>
                             </div>

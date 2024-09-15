@@ -13,7 +13,7 @@ const WhyChooseV1 = ({ sectionClass }) => {
                         <div className="col-lg-6">
                             <div className="choose-us-style-one-thumb">
                                 <Image src={aboutThumb2} alt="Image Not Found" />
-                                <PopupVideo videoId="ipUuoMCEbDQ" videoClass="popup-youtube video-play-button">
+                                <PopupVideo videoId="98x_ohAudR4" videoClass="popup-youtube video-play-button">
                                     <i className="fas fa-play"></i>
                                     <div className="effect"></div>
                                 </PopupVideo>
