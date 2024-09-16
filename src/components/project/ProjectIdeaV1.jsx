@@ -10,7 +10,7 @@ const ProjectIdeaV1 = () => {
                     <div className="col-lg-6">
                         <h4 className="sub-title">Have you project in mind?</h4>
                         <h2 className="title">For instant support please reach us</h2>
-                        <Link className="btn-round-animation dark mt-40" href="/contact-dpe">Send Mail <i className="fas fa-arrow-right"></i></Link>
+                        <Link className="btn-round-animation dark mt-40" href="/contact">Send Mail <i className="fas fa-arrow-right"></i></Link>
                     </div>
                 </div>
             </div>

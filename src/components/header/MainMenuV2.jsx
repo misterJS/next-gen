@@ -30,8 +30,8 @@ const MainMenuV2 = ({ toggleSubMenu2 }) => {
                     </ul>
                 </li>
                 <li><Link href="/services">Services </Link></li>
-                <li><Link href="/about-dpe">About</Link> </li>
-                <li><Link href="/contact-dpe">Contact</Link></li>
+                <li><Link href="/about">About</Link> </li>
+                <li><Link href="/contact">Contact</Link></li>
             </ul>
         </>
     );

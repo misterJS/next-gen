@@ -10,7 +10,7 @@ const SinglePriceV1 = ({ price }) => {
                 <div className="left">
                     <h4>{title}</h4>
                     <span>{subtitle}</span>
-                    <Link className="btn mt-25 btn-sm circle btn-border light" href="/contact-dpe">Order Now</Link>
+                    <Link className="btn mt-25 btn-sm circle btn-border light" href="/contact">Order Now</Link>
                 </div>
                 <div className="right">
                     <ul>

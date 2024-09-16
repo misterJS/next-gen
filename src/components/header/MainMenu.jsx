@@ -12,13 +12,13 @@ const MainMenu = ({ toggleSubMenu }) => {
                     <Link href="/project">Proyek</Link>
                 </li>
                 <li>
-                    <Link href="/about-dpe">Tentang DPE</Link>
+                    <Link href="/about">Tentang DPE</Link>
                 </li>
                 <li className="disabled">
                     <a href="#" onClick={(e) => e.preventDefault()}>Kabar</a>
                 </li>
                 <li>
-                    <Link href="/contact-dpe">Kontak DPE</Link>
+                    <Link href="/contact">Kontak DPE</Link>
                 </li>
             </ul>
         </>

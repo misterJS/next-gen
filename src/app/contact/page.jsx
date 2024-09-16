@@ -10,7 +10,7 @@ export const metadata = {
 const ContactUs = () => {
     return (
         <>
-            <LayoutStyle2 pageTitle="Hubungi Kami" breadCrumb="contact-dpe">
+            <LayoutStyle2 pageTitle="Hubungi Kami" breadCrumb="contact">
                 <ContactContent />
                 <DarkLayout />
             </LayoutStyle2>

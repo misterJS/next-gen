@@ -13,7 +13,7 @@ const ClientV1 = () => {
                             <div className="col-lg-5">
                                 <h5>Bergabunglah dengan bisnis terkemuka di seluruh dunia.</h5>
                                 <h2 className="title">Bekerja sama dengan platform industri teratas</h2>
-                                <Link className="btn mt-25 btn-gradient btn-sm" href="/contact-dpe">Bergabung dengan Kami</Link>
+                                <Link className="btn mt-25 btn-gradient btn-sm" href="/contact">Bergabung dengan Kami</Link>
                             </div>
                             <div className="col-lg-7">
                                 <div className="client-item-box">
