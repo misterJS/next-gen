@@ -12,7 +12,7 @@ const ContactContent = () => {
                             <div className="contact-style-one-info">
                                 <ul className="contact-address bg-dark text-light" style={{ backgroundImage: "url(assets/img/shape/globe.png)" }}>
                                     <li>
-                                        <a className="phone-link" href="tel:+62211234567">+62 882 1076 4116</a>
+                                        <a className="phone-link" href="tel:+6288210764116">+62 882 1076 4116</a>
                                     </li>
                                     <li>
                                         <div className="info">
@@ -25,7 +25,7 @@ const ContactContent = () => {
                                     <li>
                                         <div className="info">
                                             <h4>Email Resmi</h4>
-                                            <a href="mailto:info@dwipancaekatama.com">info@dwipancabolting.id</a>
+                                            <a href="mailto:info@dwipancabolting.id">info@dwipancabolting.id</a>
                                         </div>
                                     </li>
                                     <li>

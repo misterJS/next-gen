@@ -23,7 +23,7 @@ const BannerZoomV1 = () => {
     return (
         <>
             <div className="banner-animation-zoom">
-                <div className="animation-zoom-banner" style={{ backgroundImage: "url(/assets/img/banner/1.jpg)", width: width }}></div>
+                <div className="animation-zoom-banner" style={{ backgroundImage: "url(/assets/img/banner/1.webp)", width: width }}></div>
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6 offset-lg-6">

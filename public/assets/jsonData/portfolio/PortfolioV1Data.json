@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "thumb": "1.jpg",
-        "thumbFull": "1-full.jpg",
+        "thumb": "porto-1.webp",
+        "thumbFull": "porto-1-full.jpg",
         "tag": "Flange Management",
         "title": "Pengelolaan Flange yang Aman",
         "icon": "fas fa-arrow-right",
@@ -14,7 +14,7 @@
     },
     {
         "id": 2,
-        "thumb": "2.jpg",
+        "thumb": "porto-2.webp",
         "thumbFull": "2-full.jpg",
         "tag": "Bolting Solutions",
         "title": "Solusi Pengencangan Baut Industri",
@@ -27,7 +27,7 @@
     },
     {
         "id": 3,
-        "thumb": "3.jpg",
+        "thumb": "porto-3.webp",
         "thumbFull": "3-full.jpg",
         "tag": "Hydraulics Torque",
         "title": "Penggunaan Torsi Hidrolik yang Efektif",
@@ -40,7 +40,7 @@
     },
     {
         "id": 4,
-        "thumb": "4.jpg",
+        "thumb": "porto-4.webp",
         "thumbFull": "4-full.jpg",
         "tag": "ERP Solutions",
         "title": "Pengembangan Sistem ERP Terintegrasi",

@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
 import WhyChooseV1Data from '@/assets/jsonData/whyChoose/WhyChooseV1Data.json';
-import aboutThumb2 from '@/assets/img/about/2.jpg';
+import aboutThumb2 from '@/assets/img/banner/banner3.jpg';
 import PopupVideo from '../video/PopupVideo';
 
 const WhyChooseV1 = ({ sectionClass }) => {

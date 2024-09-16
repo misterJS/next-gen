@@ -51,13 +51,13 @@ const SidebarInfo = ({ openInfoBar, closeInfoBar, isInfoOpen }) => {
                                 <li>
                                     <div className="content">
                                         <p>Email</p>
-                                        <strong>info@dwipanca.id</strong>
+                                        <strong>info@dwipancabolting.id</strong>
                                     </div>
                                 </li>
                                 <li>
                                     <div className="content">
                                         <p>Kontak</p>
-                                        <strong>+62 21 1234 5678</strong>
+                                        <strong>+62 8821 0764 116</strong>
                                     </div>
                                 </li>
                             </ul>

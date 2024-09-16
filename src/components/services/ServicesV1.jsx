@@ -3,7 +3,7 @@ import Image from 'next/image';
 import React, { useEffect, useRef, useState } from 'react';
 import { Autoplay, Keyboard, Navigation } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import shape5 from '@/assets/img/shape/5.png';
+import shape5 from '@/assets/img/shape/animate.webp';
 import SingleServiceV1 from './SingleServiceV1';
 import ServiceV1Data from '@/assets/jsonData/services/ServiceV1Data.json';
 

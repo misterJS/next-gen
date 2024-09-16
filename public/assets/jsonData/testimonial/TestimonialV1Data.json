@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "thumb": "15.jpg",
+        "thumb": "koin.png",
         "icon": "quote-big.png",
         "name": "Saimin",
         "ratings": 5,
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "thumb": "14.jpg",
+        "thumb": "mbe.jpeg",
         "icon": "quote-big.png",
         "name": "Admin",
         "ratings": 5,

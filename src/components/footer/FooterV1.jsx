@@ -73,13 +73,13 @@ const FooterV1 = ({ logoWhite }) => {
                                             <li>
                                                 <div className="content">
                                                     <strong>Email:</strong>
-                                                    <a href="mailto:info@dwipancaekatama.com">info@dwipancaekatama.com</a>
+                                                    <a href="mailto:info@dwipancabolting.id">info@dwipancabolting.id</a>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div className="content">
                                                     <strong>Telepon:</strong>
-                                                    <a href="tel:+62211234567">+62 21 1234567</a>
+                                                    <a href="tel:+6288210764116">+62 8821 0764 116</a>
                                                 </div>
                                             </li>
                                         </ul>

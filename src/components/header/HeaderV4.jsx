@@ -46,7 +46,7 @@ const HeaderV4 = () => {
                                             </div>
                                             <div className="info">
                                                 <p>Ajukan Pertanyaan?</p>
-                                                <h5><a href="mailto:info@crysta.com">info@dwipancabolting.id</a></h5>
+                                                <h5><a href="mailto:info@dwipancabolting.id">info@dwipancabolting.id</a></h5>
                                             </div>
                                         </div>
                                     </li>

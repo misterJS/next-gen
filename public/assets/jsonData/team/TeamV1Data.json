@@ -8,8 +8,8 @@
         "icon2": "fab fa-twitter",
         "icon3": "fas fa-comment-alt-lines",
         "person": "Aulia Rachmat y",
-        "mail": "aulia@dwipancaekatama.com",
-        "phone": "+62-21-1234-5678",
+        "mail": "info@dwipancabolting.id",
+        "phone": "+62-8821-0764-116",
         "designation": "Managing Director",
         "delay": "200ms"
     },
@@ -22,8 +22,8 @@
         "icon2": "fab fa-twitter",
         "icon3": "fas fa-comment-alt-lines",
         "person": "Chandra Nugraha",
-        "mail": "chandra@dwipancaekatama.com",
-        "phone": "+62-21-1234-5679",
+        "mail": "info@dwipancabolting.id",
+        "phone": "+62-8821-0764-116",
         "designation": "Commissioner",
         "delay": "400ms"
     },
@@ -36,13 +36,13 @@
         "icon2": "fab fa-twitter",
         "icon3": "fas fa-comment-alt-lines",
         "person": "Fajrin Arpiansyah",
-        "mail": "fajrin@dwipancaekatama.com",
-        "phone": "+62-21-1234-5680",
+        "mail": "info@dwipancabolting.id",
+        "phone": "+62-8821-0764-116",
         "designation": "Project Manager",
         "delay": "600ms"
     },
     {
-        "id": 3,
+        "id": 4,
         "thumb": "15.jpg",
         "thumbFull": "15-full.jpg",
         "age": 34,
@@ -50,8 +50,8 @@
         "icon2": "fab fa-twitter",
         "icon3": "fas fa-comment-alt-lines",
         "person": "Faiz Azhari RAY",
-        "mail": "fajrin@dwipancaekatama.com",
-        "phone": "+62-21-1234-5680",
+        "mail": "info@dwipancabolting.id",
+        "phone": "+62-8821-0764-116",
         "designation": "Technician",
         "delay": "600ms"
     }
