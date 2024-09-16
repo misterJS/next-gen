@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <url>
+    <loc>https://www.dwipancabolting.id/</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://dwipancabolting.id/</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/project</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/contact-dpe</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/about-dpe</loc>
+    <priority>0.60</priority>
+  </url>
+
+</urlset>
