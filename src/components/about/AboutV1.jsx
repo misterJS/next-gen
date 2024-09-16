@@ -33,7 +33,7 @@ const AboutV1 = ({ sectionClass }) => {
                                     <li>Komunikasi yang efektif dengan klien.</li>
                                     <li>Pengalaman dalam memberikan solusi inovatif.</li>
                                 </ul>
-                                <Link href="/about-us" className="arrow-btn"><i className="fas fa-arrow-right"></i></Link>
+                                <Link href="/about-dpe" className="arrow-btn"><i className="fas fa-arrow-right"></i></Link>
                             </div>
                         </div>
                     </div>

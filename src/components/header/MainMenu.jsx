@@ -6,19 +6,19 @@ const MainMenu = ({ toggleSubMenu }) => {
         <>
             <ul className="nav navbar-nav navbar-center">
                 <li>
-                    <Link href="/">Home</Link>
+                    <Link href="/">Beranda</Link>
                 </li>
                 <li className="dropdown">
-                    <Link href="/project">Projects</Link>
+                    <Link href="/project">Proyek</Link>
                 </li>
                 <li>
-                    <Link href="/about-us">About Us</Link>
+                    <Link href="/about-dpe">Tentang DPE</Link>
                 </li>
                 <li className="disabled">
-                    <a href="#" onClick={(e) => e.preventDefault()}>Blog</a>
+                    <a href="#" onClick={(e) => e.preventDefault()}>Kabar</a>
                 </li>
                 <li>
-                    <Link href="/contact-us">Contact</Link>
+                    <Link href="/contact-dpe">Kontak DPE</Link>
                 </li>
             </ul>
         </>

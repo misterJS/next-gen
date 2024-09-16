@@ -15,7 +15,7 @@ const BreadCrumb = ({ breadCrumb, pageTitle, hasOffset }) => {
                             <div className={`col-lg-8 ${hasOffset}`}>
                                 <nav aria-label="breadcrumb">
                                     <ol className="breadcrumb">
-                                        <li><a href="#"><i className="fas fa-home"></i> Home</a></li>
+                                        <li><a href="/"><i className="fas fa-home"></i> Beranda</a></li>
                                         <li className="active">{breadCrumb ? breadCrumb : "Not Found"}</li>
                                     </ol>
                                 </nav>

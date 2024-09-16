@@ -9,7 +9,7 @@ import WhyChooseV1 from '@/components/whyChoose/WhyChooseV1';
 import React from 'react';
 
 export const metadata = {
-    title: "Dwi Panca Ekatama - Solusi Industri Terpercaya - About Us"
+    title: "Dwi Panca Ekatama - Solusi Industri Terpercaya - Tentang DPE"
 };
 
 const AboutUsPage = () => {

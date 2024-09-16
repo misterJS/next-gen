@@ -39,22 +39,22 @@ const FooterV1 = ({ logoWhite }) => {
                                         <h4 className="widget-title">Perusahaan</h4>
                                         <ul>
                                             <li>
-                                                <Link href="/about-us">Profil Perusahaan</Link>
+                                                <Link href="/about-dpe">Profil Perusahaan</Link>
                                             </li>
                                             <li>
-                                                <Link href="/about-us">Tentang Kami</Link>
+                                                <Link href="/about-dpe">Tentang Kami</Link>
                                             </li>
                                             <li>
-                                                <Link href="/contact-us">Pusat Bantuan</Link>
+                                                <Link href="/contact-dpe">Pusat Bantuan</Link>
                                             </li>
                                             <li>
-                                                <Link href="/contact-us">Karir</Link>
+                                                <Link href="/contact-dpe">Karir</Link>
                                             </li>
                                             <li>
-                                                <Link href="/about-us">Fitur</Link>
+                                                <Link href="/about-dpe">Fitur</Link>
                                             </li>
                                             <li>
-                                                <Link href="/contact-us">Kontak</Link>
+                                                <Link href="/contact-dpe">Kontak</Link>
                                             </li>
                                         </ul>
                                     </div>

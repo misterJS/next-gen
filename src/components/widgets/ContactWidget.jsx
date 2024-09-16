@@ -12,7 +12,7 @@ const ContactWidget = () => {
                     </p>
                     <h2>+(012) 6679545</h2>
                     <h4><a href="mailto:info@digital.com">info@digital.com</a></h4>
-                    <Link className="btn mt-30 btn-sm circle btn-light effect" href="/contact-us">Contact Now</Link>
+                    <Link className="btn mt-30 btn-sm circle btn-light effect" href="/contact-dpe">Contact Now</Link>
                 </div>
             </div>
         </>
