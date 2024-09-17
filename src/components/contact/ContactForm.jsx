@@ -1,14 +1,36 @@
-"use client"
+"use client";
 import React from 'react';
 import { toast } from 'react-toastify';
+import { collection, addDoc } from "firebase/firestore";
+import { firestore } from "../../../firebase";
 
 const ContactForm = () => {
 
-    const handleSubmit = (event) => {
-        event.preventDefault()
-        event.target.reset()
-        toast.success("Thanks for your Message")
-    }
+    const addDataToProjects = async (data) => {
+        try {
+            const docRef = await addDoc(collection(firestore, "projects"), data);
+            console.log("Document written with ID: ", docRef.id);
+        } catch (e) {
+            console.error("Error adding document: ", e);
+            toast.error("Failed to submit. Please try again.");
+        }
+    };
+
+    const handleSubmit = async (event) => {
+        event.preventDefault();
+
+        const name = event.target.name.value;
+        const email = event.target.email.value;
+        const phone = event.target.phone.value;
+        const comments = event.target.comments.value;
+
+        const formData = { name, email, phone, comments };
+
+        await addDataToProjects(formData);
+
+        event.target.reset();
+        toast.success("Thanks for your Message");
+    };
 
     return (
         <>
