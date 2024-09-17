@@ -16,6 +16,7 @@ import "@/assets/css/style.css";
 
 import { Manrope } from "next/font/google";
 import { ToastContainer } from "react-toastify";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import Dependency from "@/components/utilities/Dependency";
 import Head from "next/head";
 
@@ -65,6 +66,7 @@ export default function RootLayout({ children }) {
         <Dependency />
         {children}
         <div id="modal-root-content" />
+        <SpeedInsights />
       </body>
     </html>
   );
