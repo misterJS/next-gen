@@ -18,6 +18,7 @@ import { Manrope } from "next/font/google";
 import { ToastContainer } from "react-toastify";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import Dependency from "@/components/utilities/Dependency";
+import { Analytics } from '@vercel/analytics/react';
 import Head from "next/head";
 
 const manrope = Manrope({
@@ -66,6 +67,7 @@ export default function RootLayout({ children }) {
         <Dependency />
         {children}
         <div id="modal-root-content" />
+        <Analytics />
         <SpeedInsights />
       </body>
     </html>
