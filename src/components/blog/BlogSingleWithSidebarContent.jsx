@@ -153,7 +153,7 @@ const BlogSingleWithSidebarContent = ({ blogData }) => {
                       </div>
                     </div>
 
-                    <BlogForm link={link} />
+                    <BlogForm link={link} fetchComments={fetchComments} />
                   </div>
                 </div>
               </div>

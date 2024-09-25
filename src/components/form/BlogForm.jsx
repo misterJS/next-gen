@@ -5,7 +5,7 @@ import { collection, addDoc } from "firebase/firestore";
 import { firestore } from "../../../firebase";
 
 const BlogForm = (blogProps) => {
-  const { link } = blogProps;
+  const { link, fetchComments } = blogProps;
   const [loading, setLoading] = useState(false);
 
   const handleComment = async (event) => {
@@ -28,6 +28,7 @@ const BlogForm = (blogProps) => {
 
       toast.success("Thanks for your Comment");
       event.target.reset();
+      fetchComments();
     } catch (error) {
       console.error("Error adding comment: ", error);
       toast.error("Failed to submit comment");
