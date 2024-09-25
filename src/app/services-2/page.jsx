@@ -8,7 +8,7 @@ import WhyChooseV1 from '@/components/whyChoose/WhyChooseV1';
 import React from 'react';
 
 export const metadata = {
-    title: "Dwi Panca Ekatama - Solusi Industri Terpercaya - Services 2"
+    title: "Hydraulic Torque Wrench – Dwi Panca Bolting Solutions. - Services 2"
 };
 
 const Services2 = () => {

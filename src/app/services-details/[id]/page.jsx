@@ -4,7 +4,7 @@ import ServiceV1Data from '@/assets/jsonData/services/ServiceV1Data.json'
 import ServicesDetailsContent from '@/components/services/ServicesDetailsContent';
 
 export const metadata = {
-    title: "Dwi Panca Ekatama - Solusi Industri Terpercaya - Services Details"
+    title: "Hydraulic Torque Wrench – Dwi Panca Bolting Solutions. - Services Details"
 };
 
 const ServicesDetails = ({ params }) => {

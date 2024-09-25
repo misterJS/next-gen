@@ -5,7 +5,7 @@ import DarkLayout from '@/components/layouts/DarkLayout';
 import HeaderV3 from '@/components/header/HeaderV3';
 
 export const metadata = {
-    title: "Dwi Panca Ekatama - Solusi Industri Terpercaya - Home 5"
+    title: "Hydraulic Torque Wrench – Dwi Panca Bolting Solutions. - Home 5"
 };
 
 const Home5 = () => {

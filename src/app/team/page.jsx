@@ -3,7 +3,7 @@ import TeamPageContent from '@/components/team/TeamPageContent';
 import React from 'react';
 
 export const metadata = {
-    title: "Dwi Panca Ekatama - Solusi Industri Terpercaya - Team"
+    title: "Hydraulic Torque Wrench – Dwi Panca Bolting Solutions. - Team"
 };
 
 const Team = () => {

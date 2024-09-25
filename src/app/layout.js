@@ -27,7 +27,7 @@ const manrope = Manrope({
 });
 
 export const metadata = {
-  title: "PT Dwi Panca Ekatama | Flange Management & Bolting Solutions",
+  title: "PT Dwi Panca Ekatama | Hydraulic Torque Wrench – Dwi Panca Bolting Solutions",
 };
 
 export default function RootLayout({ children }) {

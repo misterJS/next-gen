@@ -4,7 +4,7 @@ import PortfolioV2 from '@/components/portfolio/PortfolioV2';
 import React from 'react';
 
 export const metadata = {
-    title: "Dwi Panca Ekatama - Solusi Industri Terpercaya - Proyek"
+    title: "Hydraulic Torque Wrench – Dwi Panca Bolting Solutions. - Proyek"
 };
 
 const Project = () => {

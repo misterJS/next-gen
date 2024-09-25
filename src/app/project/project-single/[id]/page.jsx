@@ -7,7 +7,7 @@ import React from 'react';
 import AccordionV1Data from '@/assets/jsonData/accordion/AccordionV1Data.json'
 
 export const metadata = {
-    title: "Dwi Panca Ekatama - Solusi Industri Terpercaya - Project Single"
+    title: "Hydraulic Torque Wrench – Dwi Panca Bolting Solutions. - Project Single"
   };
 
 const ProjectSingle = ({ params }) => {

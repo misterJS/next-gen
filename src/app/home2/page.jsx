@@ -4,7 +4,7 @@ import DarkLayout from '@/components/layouts/DarkLayout';
 import React from 'react';
 
 export const metadata = {
-    title: "Dwi Panca Ekatama - Solusi Industri Terpercaya - Home 2"
+    title: "Hydraulic Torque Wrench – Dwi Panca Bolting Solutions. - Home 2"
 };
 
 const Home2 = () => {

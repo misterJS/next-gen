@@ -6,7 +6,7 @@ import AwardContent from '@/components/awards/AwardContent';
 import TeamQualification from '@/components/team/TeamQualification';
 
 export const metadata = {
-    title: "Dwi Panca Ekatama - Solusi Industri Terpercaya - Team Details"
+    title: "Hydraulic Torque Wrench – Dwi Panca Bolting Solutions. - Team Details"
 };
 
 const TeamDetails = ({ params }) => {

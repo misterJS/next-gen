@@ -12,7 +12,7 @@ import Pagination from '@/components/pagination/Pagination';
 import LayoutStyle2 from '@/components/layouts/LayoutStyle2';
 
 export const metadata = {
-    title: "Dwi Panca Ekatama - Solusi Industri Terpercaya - Blog With Sidebar"
+    title: "Hydraulic Torque Wrench – Dwi Panca Bolting Solutions. - Blog With Sidebar"
 };
 
 const BlogWithSidebarPage = () => {

@@ -5,7 +5,7 @@ import LayoutStyle2 from '@/components/layouts/LayoutStyle2';
 import DarkLayout from '@/components/layouts/DarkLayout';
 
 export const metadata = {
-    title: "Dwi Panca Ekatama - Solusi Industri Terpercaya - Project Details"
+    title: "Hydraulic Torque Wrench – Dwi Panca Bolting Solutions. - Project Details"
 };
 
 const ProjectDetails = ({ params }) => {

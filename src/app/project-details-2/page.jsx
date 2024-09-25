@@ -4,7 +4,7 @@ import ProjectDetails2Content from '@/components/project/ProjectDetails2Content'
 import React from 'react';
 
 export const metadata = {
-    title: "Dwi Panca Ekatama - Solusi Industri Terpercaya - Project Details 2"
+    title: "Hydraulic Torque Wrench – Dwi Panca Bolting Solutions. - Project Details 2"
 };
 
 const ProjectDetails2 = () => {
