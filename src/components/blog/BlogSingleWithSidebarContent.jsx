@@ -26,26 +26,26 @@ const BlogSingleWithSidebarContent = ({ blogData }) => {
   const [comments, setComments] = useState([]);
   const [loadingComments, setLoadingComments] = useState(true);
 
-  useEffect(() => {
-    const fetchComments = async () => {
-      try {
-        const commentsQuery = query(
-          collection(firestore, "comments"),
-          where("linkArtikel", "==", link) // Fetch comments where the link matches the article
-        );
-        const querySnapshot = await getDocs(commentsQuery);
-        const fetchedComments = querySnapshot.docs.map((doc) => ({
-          id: doc.id,
-          ...doc.data(),
-        }));
-        setComments(fetchedComments);
-        setLoadingComments(false);
-      } catch (error) {
-        console.error("Error fetching comments:", error);
-        setLoadingComments(false);
-      }
-    };
+  const fetchComments = async () => {
+    try {
+      const commentsQuery = query(
+        collection(firestore, "comments"),
+        where("linkArtikel", "==", link) // Fetch comments where the link matches the article
+      );
+      const querySnapshot = await getDocs(commentsQuery);
+      const fetchedComments = querySnapshot.docs.map((doc) => ({
+        id: doc.id,
+        ...doc.data(),
+      }));
+      setComments(fetchedComments);
+      setLoadingComments(false);
+    } catch (error) {
+      console.error("Error fetching comments:", error);
+      setLoadingComments(false);
+    }
+  };
 
+  useEffect(() => {
     if (link) {
       fetchComments();
     }
