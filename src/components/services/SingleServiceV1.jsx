@@ -9,7 +9,8 @@ const SingleServiceV1 = ({ service }) => {
         <>
             <div className="cteative-service-item">
                 <Image src={`/assets/img/icon/${icon}`} alt="Icon" width={80} height={80} />
-                <h4><Link href={`/services-details/${id}`}>{title}</Link></h4>
+                {/* /services-details/${id} */}
+                <h4><Link href={"#"}>{title}</Link></h4>
                 <p>{text}</p>
                 <span>{number}</span>
             </div>
