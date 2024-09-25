@@ -2,14 +2,14 @@ import Image from "next/image";
 import React from "react";
 
 const SingleBlogComment = ({ commentProps }) => {
-  const { commentReplay, name, createdAt, comment } = commentProps;
+  const { name, createdAt, comment } = commentProps;
   const formattedDate = createdAt?.seconds
     ? new Date(createdAt.seconds * 1000).toLocaleDateString()
     : createdAt;
 
   return (
     <>
-      <div className={`comment-item ${commentReplay}`}>
+      <div className={`comment-item`}>
         <div className="avatar">
           <Image
             src={`/assets/img/icon/smartphone.png`}
