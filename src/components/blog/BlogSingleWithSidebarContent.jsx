@@ -94,8 +94,8 @@ const BlogSingleWithSidebarContent = ({ blogData }) => {
                 <div className="post-author">
                   <div className="thumb">
                     <Image
-                      src="/assets/img/team/9.jpg"
-                      alt="Thumb"
+                      src="https://firebasestorage.googleapis.com/v0/b/dwipancaweb.appspot.com/o/images%2Fdpe-admin.png?alt=media&token=9796907f-a439-4bd7-a7c9-8568efb8fc52"
+                      alt="admin dwi panca ekatama bolting solutions"
                       width={800}
                       height={800}
                     />
