@@ -1,3 +1,4 @@
+"use client";
 import React from 'react';
 import blogData from '@/assets/jsonData/blog/BlogData.json'
 import Link from 'next/link';
