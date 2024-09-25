@@ -14,7 +14,7 @@ import WhyChooseV1 from '@/components/whyChoose/WhyChooseV1';
 import React from 'react';
 
 export const metadata = {
-    title: "Dwi Panca Ekatama - Solusi Industri Terpercaya - React Next Js Template"
+    title: "Dwi Panca Ekatama - Solusi Industri Terpercaya - flange management - rental bolting"
   };
 
 const Home1 = () => {
