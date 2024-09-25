@@ -23,7 +23,7 @@ const SingleRecentPost = ({ blog }) => {
     <>
       <li>
         <div className="thumb">
-          <Link href={`/blog/${link}`}>
+          <Link href={`/blogs/${link}`}>
             <Image src={imageUrl} width={500} height={500} alt={link} />
           </Link>
         </div>
@@ -31,7 +31,7 @@ const SingleRecentPost = ({ blog }) => {
           <div className="meta-title">
             <span className="post-date">{formattedDate}</span>
           </div>
-          <Link href={`/blog/${link}`}>{truncatedTitle}</Link>
+          <Link href={`/blogs/${link}`}>{truncatedTitle}</Link>
         </div>
       </li>
     </>

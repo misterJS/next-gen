@@ -13,7 +13,7 @@ const SingleBlog3Column = ({ blog }) => {
     <>
       <div className="blog-style-one">
         <div className="thumb">
-          <Link href={`/blog/${link}`}>
+          <Link href={`/blogs/${link}`}>
             <Image src={imageUrl} width={800} height={600} alt={title} />
           </Link>
         </div>
@@ -29,9 +29,9 @@ const SingleBlog3Column = ({ blog }) => {
             </ul>
           </div>
           <h2 className="post-title">
-            <Link href={`/blog/${link}`}>{title}</Link>
+            <Link href={`/blogs/${link}`}>{title}</Link>
           </h2>
-          <Link href={`/blog/${link}`} className="button-regular">
+          <Link href={`/blogs/${link}`} className="button-regular">
             selengkapnya<i className={btnIcon}></i>
           </Link>
         </div>

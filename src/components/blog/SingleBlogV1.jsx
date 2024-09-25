@@ -9,7 +9,7 @@ const SingleBlogV1 = ({ blog }) => {
     <>
       <div className="home-blog-style-one">
         <div className="thumb">
-          <Link href={`/blog/${link}`}>
+          <Link href={`/blogs/${link}`}>
             <Image src={imageUrl} alt={link} width={800} height={800} />
           </Link>
         </div>
@@ -17,7 +17,7 @@ const SingleBlogV1 = ({ blog }) => {
           <div className="meta">
             <ul>
               <li>
-                <Link href={`/blog/${link}`} scroll={false}>
+                <Link href={`/blogs/${link}`} scroll={false}>
                   {createdBy}
                 </Link>{" "}
               </li>
@@ -25,9 +25,9 @@ const SingleBlogV1 = ({ blog }) => {
             </ul>
           </div>
           <h4 className="post-title">
-            <Link href={`/blog/${link}`}>{title}</Link>
+            <Link href={`/blogs/${link}`}>{title}</Link>
           </h4>
-          <Link href={`/blog/${link}`} className="button-regular">
+          <Link href={`/blogs/${link}`} className="button-regular">
             Continue Reading <i className="fas fa-arrow-right"></i>
           </Link>
         </div>
