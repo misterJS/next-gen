@@ -1,22 +1,30 @@
 import Link from 'next/link';
 import React from 'react';
-import handleSmoothScroll from '../utilities/handleSmoothScroll';
 
-const Pagination = () => {
+const Pagination = ({ currentPage, totalBlogs, blogsPerPage, paginate }) => {
+    const pageNumbers = [];
+    for (let i = 1; i <= Math.ceil(totalBlogs / blogsPerPage); i++) {
+        pageNumbers.push(i);
+    }
+
     return (
         <>
-            <nav aria-label="navigation">
+            <nav aria-label="Page navigation">
                 <ul className="pagination">
-                    <li className="page-item">
-                        <Link className="page-link" href="#" onClick={handleSmoothScroll}>
+                    <li className={`page-item ${currentPage === 1 ? 'disabled' : ''}`}>
+                        <Link href="#" className="page-link" onClick={() => paginate(currentPage - 1)}>
                             <i className="fas fa-angle-double-left"></i>
                         </Link>
                     </li>
-                    <li className="page-item active"><Link className="page-link" href="#" onClick={handleSmoothScroll}>1</Link></li>
-                    <li className="page-item"><Link className="page-link" href="#" onClick={handleSmoothScroll}>2</Link></li>
-                    <li className="page-item"><Link className="page-link" href="#" onClick={handleSmoothScroll}>3</Link></li>
-                    <li className="page-item">
-                        <Link className="page-link" href="#" onClick={handleSmoothScroll}>
+                    {pageNumbers.map(number => (
+                        <li key={number} className={`page-item ${number === currentPage ? 'active' : ''}`}>
+                            <Link href="#" className="page-link" onClick={() => paginate(number)}>
+                                {number}
+                            </Link>
+                        </li>
+                    ))}
+                    <li className={`page-item ${currentPage === pageNumbers.length ? 'disabled' : ''}`}>
+                        <Link href="#" className="page-link" onClick={() => paginate(currentPage + 1)}>
                             <i className="fas fa-angle-double-right"></i>
                         </Link>
                     </li>

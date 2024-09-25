@@ -9,7 +9,7 @@ const Blog2ColumnContent = () => {
             <div className="blog-area blog-grid-colum default-padding">
                 <div className="container">
                     <div className="row">
-                        {blogData.slice(4, 8).map(blog =>
+                        {blogData.map(blog =>
                             <div className="col-lg-6 mb-50" key={blog.id}>
                                 <SingleBlog2Column blog={blog} />
                             </div>
