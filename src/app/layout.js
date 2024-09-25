@@ -27,7 +27,7 @@ const manrope = Manrope({
 });
 
 export const metadata = {
-  title: "Dwi Panca Ekatama - Bolting Solutions",
+  title: "PT Dwi Panca Ekatama | Flange Management & Bolting Solutions",
 };
 
 export default function RootLayout({ children }) {
