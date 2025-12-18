@@ -79,7 +79,7 @@ const FooterV1 = ({ logoWhite }) => {
                                             <li>
                                                 <div className="content">
                                                     <strong>Telepon:</strong>
-                                                    <a href="tel:+6288210764116">+62 8821 0764 116</a>
+                                                    <a href="tel:+6285213093590">+62 8821 0764 116</a>
                                                 </div>
                                             </li>
                                         </ul>

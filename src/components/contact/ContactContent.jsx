@@ -12,7 +12,7 @@ const ContactContent = () => {
                             <div className="contact-style-one-info">
                                 <ul className="contact-address bg-dark text-light" style={{ backgroundImage: "url(assets/img/shape/globe.png)" }}>
                                     <li>
-                                        <a className="phone-link" href="tel:+6288210764116">+62 882 1076 4116</a>
+                                        <a className="phone-link" href="tel:+6285213093590">+62 852 1309 3590</a>
                                     </li>
                                     <li>
                                         <div className="info">
