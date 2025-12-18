@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "thumb": "porto-1.webp",
+        "thumb": "porto-1.png",
         "thumbFull": "porto-1-full.jpg",
         "tag": "Flange Management",
         "title": "Pengelolaan Flange yang Aman",
@@ -14,7 +14,7 @@
     },
     {
         "id": 2,
-        "thumb": "porto-2.webp",
+        "thumb": "porto-2.png",
         "thumbFull": "2-full.jpg",
         "tag": "Rental Bolting Solutions",
         "title": "Solusi Pengencangan Industri Bolting",
@@ -27,7 +27,7 @@
     },
     {
         "id": 3,
-        "thumb": "porto-3.webp",
+        "thumb": "porto-3.png",
         "thumbFull": "3-full.jpg",
         "tag": "Hydraulics Torque",
         "title": "Penggunaan Hydraulics Torque yang Efektif",
@@ -40,7 +40,7 @@
     },
     {
         "id": 4,
-        "thumb": "porto-4.webp",
+        "thumb": "porto-4.png",
         "thumbFull": "4-full.jpg",
         "tag": "ERP Solutions",
         "title": "Pengembangan Sistem ERP Terintegrasi",

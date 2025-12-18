@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import about1Thumb from '@/assets/img/banner/2.webp';
+import about1Thumb from '@/assets/img/banner/2.png';
 import Count from '../count/Count';
 
 const AboutV1 = ({ sectionClass }) => {
