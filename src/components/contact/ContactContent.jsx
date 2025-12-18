@@ -25,7 +25,7 @@ const ContactContent = () => {
                                     <li>
                                         <div className="info">
                                             <h4>Email Resmi</h4>
-                                            <a href="mailto:info@dwipancabolting.id">info@dwipancabolting.id</a>
+                                            <a href="mailto:info@dwipancaekatama.com">info@dwipancaekatama.com</a>
                                         </div>
                                     </li>
                                     <li>

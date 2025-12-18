@@ -73,7 +73,7 @@ const FooterV1 = ({ logoWhite }) => {
                                             <li>
                                                 <div className="content">
                                                     <strong>Email:</strong>
-                                                    <a href="mailto:info@dwipancabolting.id">info@dwipancabolting.id</a>
+                                                    <a href="mailto:info@dwipancaekatama.com">info@dwipancaekatama.com</a>
                                                 </div>
                                             </li>
                                             <li>
